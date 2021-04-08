@@ -74,7 +74,7 @@ export default {
         },
         {
           key: 'companyName',
-          label: 'companyName',
+          label: 'Company',
           sortable: true,
         },
       ];
