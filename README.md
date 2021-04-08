@@ -4,6 +4,8 @@ npm install
 npm run serve
 npm run lint
 
+You can replace VUE_APP_ROOT_API=https://xxxxx/api with your own API
+
 credentials to sign in to the application:
 email: test@test.com
 password: password
