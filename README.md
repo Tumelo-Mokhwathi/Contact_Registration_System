@@ -1,4 +1,4 @@
-The purpose of this application is to access and add your contacts. You can also add contacts to the database. If you want to test the application you can run the following script below to configure and run the application.
+The purpose of this application is to authenticate users and access the contacts list. You can also add contacts to the database. If you want to test the application you can run the following script below to configure and run the application.
 
 npm install
 npm run serve
