@@ -8,3 +8,7 @@ credentials to sign in to the application:
 email: test@test.com
 password: password
 
+<img src="https://github.com/Tumelo-Mokhwathi/Contacts_Registration_System/blob/master/src/assets/SignIn.png" width="300" /> 
+
+
+
